@@ -69,18 +69,10 @@
    <tr>
     <td>Code Wars</td>
     <td>https://www.codewars.com/users/virusrag</td>
-    <td>Lvl 7</td>
-    <td>1,180 XP</td>
-    <td>JS</td>
+    <td>Kyu 8</td>
+    <td>C++/Python</td>
   </tr>  
-   
-   <tr>
-    <td>Leetcode</td>
-    <td>https://leetcode.com/fadyehabamer/</td>
-    <td>Lvl 1</td>
-    <td>3 problems</td>
-    <td>JS</td>
-  </tr>  
+
 </table>
 
 <!-- end problem solving -->
