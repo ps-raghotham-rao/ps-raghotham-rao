@@ -1,7 +1,7 @@
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=000000&size=25&lines=Hi+%2C+I+am+Fady+Ehab+Amer+%E2%9C%8C)](https://git.io/typing-svg) -->
 # Hi, I'm Raghotham <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
 
-## I'm a CS student and Front-End web developer !
+## I'm a CS student and Android developer !
 - 🌱 I’m currently learning Android App Development.
 - 👯 I’m looking to collaborate with other developers. 
 - 🥅 2021 Goals: Learn to build big projects using more tools and PL.
@@ -40,10 +40,10 @@
 <!-- start tools and languages -->
 <img align="left" alt="Visual Studio Code" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="git" width="45px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/python/python.png" />
+<img align="left" alt="git" width="45px" src="https://user-images.githubusercontent.com/73742827/126870931-41950938-5b23-4ffb-9575-3c5c30186c9e.png" />
 <img align="left" alt="git" width="45px" src="https://user-images.githubusercontent.com/73742827/126869740-6ab3d809-d6a3-4aab-aa1b-40c2efd8a44c.png" />
 <img align="left" alt="HTML5" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Sass" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
 <img align="left" alt="JavaScript" width="45px"src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>
 <img align="left" alt="jquery" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png" />
 <!-- <img align="left" alt="react" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" /> -->
