@@ -2,9 +2,8 @@
 # Hi, I'm Raghotham <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
 
 ## I'm a CS student and Android developer !
-- 🌱 I’m currently learning Android App Development.
+- 🌱 I’m currently learning FastAPI and aspire to become a Python Developer.
 - 👯 I’m looking to collaborate with other developers. 
-- 🥅 2021 Goals: Learn to build big projects using more tools and PL.
 - 🤣 Fun fact (1) : I am a Youtuber with 5k+ Views. 
 - 🏊‍♂️ Fun fact (2) : I am an IT Support Local Freelancer. 
 
