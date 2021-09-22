@@ -1,7 +1,7 @@
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=000000&size=25&lines=Hi+%2C+I+am+Fady+Ehab+Amer+%E2%9C%8C)](https://git.io/typing-svg) -->
 # Hi, I'm Raghotham <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
 
-## I'm a CS student and Android developer !
+## I'm a CS student and Python developer !
 - 🌱 I’m currently learning FastAPI and aspire to become a Python Developer.
 - 👯 I’m looking to collaborate with other developers. 
 - 🤣 Fun fact (1) : I am a Youtuber with 5k+ Views. 
