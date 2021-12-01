@@ -62,20 +62,6 @@
 <!-- YOUTUBE:END -->
 <br />
 
-### 🌎Problem Solving website progress
-<!-- start problem solving -->
-<table border = "1" bordercolor = "blue">
-   <tr>
-    <td>Code Wars</td>
-    <td>https://www.codewars.com/users/virusrag</td>
-    <td>Kyu 8</td>
-    <td>C++/Python</td>
-  </tr>  
-
-</table>
-
-<!-- end problem solving -->
-<br />
 
 
 
